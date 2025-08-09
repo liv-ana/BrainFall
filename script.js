@@ -11,7 +11,7 @@ let equations = [];
 let equationInterval = 90;
 let frameCounter = 0;
 
-// load images
+// load images (in the assets)
 function preload(){
   brain1_img = loadImage('assets/screen1-removebg-preview.png');
   brain2_img = loadImage('assets/screen3-removebg-preview.png');
